@@ -1,9 +1,6 @@
 # The Gold Stars Web App
 
-Basic Node.js + React web app for tracking gold stars.
-
-# Gold Stars App
-A React app for tracking achievements and high scores.
+Basic Node.js + React web app for tracking achievements and high scores.
 
 ## Installation
 Clone the repository and run `npm install` to install dependencies.
