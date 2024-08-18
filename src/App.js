@@ -96,7 +96,7 @@ function HighScoreTab({ scores, lastReset, handleResetScores }) {
       ) : (
         <p>No entries yet</p>
       )}
-      <button onClick={handleResetScores}>Reset Scores</button>
+      <button onClick={handleResetScores}>Reset All Scores</button>
       {lastReset && <p>Date of Last Reset: {lastReset}</p>}
     </div>
   );
